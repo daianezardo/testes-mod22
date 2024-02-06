@@ -1,0 +1,20 @@
+{
+  "usuario": "teste@teste.com",
+  "senha": "Teste123@",
+  "firstName": "Maria",
+  "lastName": "Silva",
+  "country": "BR",
+  "address1": "rua 13 de maio",
+  "city": "Florianopolis",
+  "state": "SC",
+  "postCode": "88066524",
+  "phone": "99999999",
+  "email": "teste@teste.com",
+  "size": "M",
+  "color": "Black",
+  "quantity": 1,
+  "cart": 4062,
+  "prodId": 4062,
+  "varId": 4066
+}
+
